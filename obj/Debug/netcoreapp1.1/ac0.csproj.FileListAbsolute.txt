@@ -1,0 +1,8 @@
+C:\Users\Francesco\Projects\VS_Code\ac0\bin\Debug\netcoreapp1.1\ac0.deps.json
+C:\Users\Francesco\Projects\VS_Code\ac0\bin\Debug\netcoreapp1.1\ac0.runtimeconfig.json
+C:\Users\Francesco\Projects\VS_Code\ac0\bin\Debug\netcoreapp1.1\ac0.runtimeconfig.dev.json
+C:\Users\Francesco\Projects\VS_Code\ac0\bin\Debug\netcoreapp1.1\ac0.dll
+C:\Users\Francesco\Projects\VS_Code\ac0\bin\Debug\netcoreapp1.1\ac0.pdb
+C:\Users\Francesco\Projects\VS_Code\ac0\obj\Debug\netcoreapp1.1\ac0.AssemblyInfo.cs
+C:\Users\Francesco\Projects\VS_Code\ac0\obj\Debug\netcoreapp1.1\ac0.dll
+C:\Users\Francesco\Projects\VS_Code\ac0\obj\Debug\netcoreapp1.1\ac0.pdb
